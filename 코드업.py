@@ -1,0 +1,6 @@
+a=input()
+print('['+str(int(a[0])*10000)+']')
+print('['+str(int(a[1])*1000)+']')
+print('['+str(int(a[2])*100)+']')
+print('['+str(int(a[3])*10)+']')
+print('['+str(int(a[4])*1)+']')
